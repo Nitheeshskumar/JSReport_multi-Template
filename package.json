@@ -1,0 +1,23 @@
+{
+  "name": "jsreport_multi-template",
+  "version": "1.0.0",
+  "description": "Way to overcome the limitation of JSReport 5 template limitation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nitheeshskumar/JSReport_multi-Template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nitheeshskumar/JSReport_multi-Template/issues"
+  },
+  "homepage": "https://github.com/Nitheeshskumar/JSReport_multi-Template#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jsreport": "^2.10.0"
+  }
+}
